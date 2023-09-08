@@ -104,10 +104,5 @@ jobs:
 
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
                         
-- name: Super-Linter
-
-
-              
-  uses: super-linter/super-linter@v5.2.1
 
 
